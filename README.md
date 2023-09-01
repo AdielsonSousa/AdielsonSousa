@@ -1,6 +1,6 @@
 <h1>Olá, pessoal! :rocket:</h1> 
 
-<p>Meu nome é <b>Adielson</b> e sou aluno da <b>Cubos Academy</b> e da ALURA/ONE onde realizo cursos de <b>Desenvolvedor de Software - Back-End</b>, e na <b>DevMedia</b> cujo foco é em <b>Front-End</b>. Graduado em Língua Inglesa, estou em processo de transição de carreira e, por isso, decidi me preparar da melhor forma possível para ingressar no mercado de trabalho na área de Desenvolvimento de Software.</p>
+<p>Meu nome é <b>Adielson</b> e sou aluno da <b>Cubos Academy</b> e da <b>ALURA/ONE</b> onde realizo cursos de <b>Desenvolvedor de Software - Back-End</b>, e na <b>DevMedia</b> cujo foco é em <b>Front-End</b>. Graduado em Língua Inglesa, estou em processo de transição de carreira e, por isso, decidi me preparar da melhor forma possível para ingressar no mercado de trabalho na área de Desenvolvimento de Software.</p>
 
 <h2>Hard Skills</h2>
 <ul>
