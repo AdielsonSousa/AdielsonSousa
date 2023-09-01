@@ -6,6 +6,8 @@
 <a href="mailto:adielsonsousa@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 <a href="https://www.linkedin.com/in/adielson-sousa-desenvolvedor-backend/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
+<br> <blockquote>The greatest glory in living lies not in never falling, but in rising every time we fall. – Nelson Mandela</blockquote> <br>
+
 # :muscle:Hard Skills:weight_lifting:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -16,3 +18,6 @@
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AdielsonSousa&theme=tokyonight&hide_border=true&custom_title=Principais%20%Linguagens)
